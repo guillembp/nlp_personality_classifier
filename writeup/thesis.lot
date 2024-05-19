@@ -1,0 +1,9 @@
+\select@language {english}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces F1 score effects with text normalization.\relax }}{14}
+\contentsline {table}{\numberline {4.2}{\ignorespaces F1 score effects with weighting function using a Ridge Regression model.\relax }}{15}
+\contentsline {table}{\numberline {4.3}{\ignorespaces F1 score effects with weighting function using the Multinomial Naive Bayes model as in the other cases.\relax }}{15}
+\contentsline {table}{\numberline {4.4}{\ignorespaces F1 score using a Random Forest model, with and without PCA.\relax }}{15}

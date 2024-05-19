@@ -1,0 +1,12 @@
+\select@language {english}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Distribution of the jobScreening data label values\relax }}{3}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Optimal sigma for thresholds applied at both train and test splits.\relax }}{6}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Distribution of the jobScreening interview label values after removing increasingly wide central values.\relax }}{6}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces \relax }}{7}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces rbf kernel SVC\relax }}{8}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Naive Bayes Mutinomial classifier\relax }}{8}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces \relax }}{12}
+\addvspace {10\p@ }
